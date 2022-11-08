@@ -1,0 +1,19 @@
+{
+  "name": "node-backend",
+  "version": "1.0.1",
+  "description": "Backend For Ikshusaram",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "keywords": [
+    "backend"
+  ],
+  "author": "Shripati V",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.20"
+  }
+}
